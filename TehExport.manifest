@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"307b01f4-acb3-4b4e-bdf9-62a1a3e56ed6",
+	"author":	"TehDmitry",
+	"description":	{
+		"":	"Export files from Fusion360"
+	},
+	"version":	"0.1",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
